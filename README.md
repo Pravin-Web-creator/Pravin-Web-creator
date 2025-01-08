@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pravin-creator
-- 👀 I’m interested in Python software developer,web developer
+- 👀 I’m interested in Python software developer,web developer, sql
 - 🌱 I’m currently learning Python full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
